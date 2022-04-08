@@ -1,1 +1,3 @@
 place Template Admin LTE 3.1.0 directories in here and rename it with "adminlte310"
+or you can download in here :
+https://github.com/ColorlibHQ/AdminLTE/releases/tag/v3.1.0
