@@ -1,8 +1,6 @@
 # The Code Formulas to Search for Trigonometries Area
 
-## Deskripsi
-
-Aplikasi ini, dikembangkan oleh Indra Gunawan Ardiansyah, bertujuan untuk menyediakan kumpulan kode formula untuk menghitung area berbagai bentuk trigonometri, seperti segitiga, jajar genjang, dan lainnya. Dengan aplikasi ini, pengguna dapat dengan mudah mencari dan memahami rumus-rumus tersebut untuk keperluan matematika dan ilmu terkait.
+Aplikasi ini, dikembangkan oleh **Indra Gunawan Ardiansyah**, bertujuan untuk menyediakan kumpulan kode formula untuk menghitung area berbagai bentuk trigonometri, seperti segitiga, jajar genjang, dan lainnya. Dengan aplikasi ini, pengguna dapat dengan mudah mencari dan memahami rumus-rumus tersebut untuk keperluan matematika dan ilmu terkait.
 
 ## Fitur Utama
 
